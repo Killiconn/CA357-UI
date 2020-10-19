@@ -1,4 +1,4 @@
-# CA357-UI
+# CA357-UI by Killian Connolly, Alison Kennedy, Ethan Sharkey, William John O'Hanlon
 ---------------------------
 
 [Survey that was conducted to get users feedback on the current loop][google forms 1]
