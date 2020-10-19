@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <link rel = "stylesheet" href = "../CSS/style.css">
+        <script type="text/javascript" src = "../JavaScript/movement.js"></script>
+        <title>New Loop Prototype</title>
+    </head>
+    
+    <body>
+        <section class = "nav-bar">
+            
+            <ul class = "listOfNavButtons">
+                <li class = "nav-buttons"><a href="index.html">Home</a></li>
+                <li class = "nav-buttons"><a href="https://opentimetable.dcu.ie/">Timetable</a></li>
+                <li class = "nav-buttons"><a href="index.html">My Modules</a></li>
+				<li class = "nav-buttons"><a href="https://www.dcu.ie/registry/past-exam-papers.shtml">Past Papers</a></li>
+                <li class = "nav-buttons"><a href="https://www.dcu.ie/explore">About</a></li>
+                <li class = "nav-buttons-logout"><a href="login.html">Logout</a></li>
+            </ul>
+
+        </section>
+        <div class = "image">
+            <img src="../images/dcuuu.jpg" alt="DCU logo" class="dculogohome">
+        </div>
+		<section class="container">
+			
+				<h2>Upcoming Assignments </h2>
+                
+                <div class="assignments">
+
+                    <h3>Assignment 1</h3>
+
+                    <div id = "assignmentTime">
+                        <script type="text/javascript"> 
+                            getDueDateTime();
+                        </script>
+                    </div>
+
+                    <div id = "countdown">
+                        <script type="text/javascript">
+                            assignmentCountdown();
+                        </script>
+                    </div>
+
+
+
+                </div>
+
+                <div class = "assignments">
+                
+                    <h3>Assignment 2</h3>
+
+                    <div id = "assignmentTime">
+                        <script type="text/javascript"> 
+                            getDueDateTime();
+                        </script>
+                    </div>
+
+                    <div id = "countdown">
+                        <script type="text/javascript">
+                            assignmentCountdown();
+                        </script>
+                    </div>
+
+                </div>  
+
+			<h2>Module List</h2>
+			<div class="module_list">
+	            <ul>
+					<li><a href="modules/firstExample.html">CA320 Computability and Complexity</a></li>
+					<li><a href="modules/secondExample.html">CA304 Computer Networks</a></li>
+					<li><a href="modules/thirdExample.html">CA357 User Interface and Implementation</a></li>
+					<li><a href="modules/fourthExample.html">CA314 OO Analysis and Design</a></li>
+					<li><a href="modules/fifthExample.html">CA341 Comparative Programming Languages</a></li>
+					<li><a href="modules/sixthExample.html">CA318 Advanced Algorithms and A.I. Search</a></li>
+				</ul>
+			</div>
+		</section>
+    </body>
+</html>

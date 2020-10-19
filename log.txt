@@ -1,0 +1,434 @@
+commit 1226c5f21853b16a19fdb1b70a92b894d290d9a8
+Author: Ali <alison.kennedy55@mail.dcu.ie>
+Date:   Fri Dec 20 11:34:54 2019 +0000
+
+    Added the evaluation report
+
+commit 8c5e3eb73bbb714872b9d17c7165ca896afb0f64
+Author: Ali <alison.kennedy55@mail.dcu.ie>
+Date:   Fri Dec 20 11:19:29 2019 +0000
+
+    Added links to the readme
+
+commit a7b1396071009577376feaacb4ea78457f28b155
+Author: Ali <alison.kennedy55@mail.dcu.ie>
+Date:   Fri Dec 20 11:18:26 2019 +0000
+
+    Added links to the readme
+
+commit d64bf0cf414c5f9253f3f7fcf8d797b374ff7a46
+Merge: 6b5030f 06c6ef4
+Author: Ali <alison.kennedy55@mail.dcu.ie>
+Date:   Fri Dec 20 11:16:11 2019 +0000
+
+    Merge branch 'master' of https://gitlab.computing.dcu.ie/kennea55/ca357-ui
+
+commit 6b5030f65190bfcd735128103273db698f5c7f60
+Author: Ali <alison.kennedy55@mail.dcu.ie>
+Date:   Fri Dec 20 11:14:53 2019 +0000
+
+    Added links to readme
+
+commit 06c6ef4b3ba2f4e3a452f7d088e48d4657cdfd9f
+Author: billoh28 <ohanlonbill1998@gmail.com>
+Date:   Thu Dec 19 23:46:06 2019 +0000
+
+    colour changes
+
+commit a568db82a1a17bd422431a518ca5c8f7cca55930
+Author: billoh28 <ohanlonbill1998@gmail.com>
+Date:   Thu Dec 19 23:22:55 2019 +0000
+
+    Changing week headings
+
+commit 4da741e49f7ae336b1f800d113dac59ab8b66794
+Author: Ethan Sharkey <shark.ethan@gmail.com>
+Date:   Thu Dec 19 23:21:17 2019 +0000
+
+    changed deadline message
+
+commit 3404ad5434233c435cb4853ebaa272350fbf9f46
+Merge: 1d14e1e 081258b
+Author: Ethan Sharkey <shark.ethan@gmail.com>
+Date:   Thu Dec 19 23:19:29 2019 +0000
+
+    Merge branch 'master' of https://gitlab.computing.dcu.ie/kennea55/ca357-ui
+
+commit 1d14e1e1a8948d34ceb74bf3f090348b0264c66c
+Author: Ethan Sharkey <shark.ethan@gmail.com>
+Date:   Thu Dec 19 23:18:45 2019 +0000
+
+    Added JS timers for assignemnts
+
+commit 081258bc6feba8be64261d8edd419e583303358f
+Author: billoh28 <ohanlonbill1998@gmail.com>
+Date:   Thu Dec 19 23:10:12 2019 +0000
+
+    Changing list css again
+
+commit cf43f1d8440408a704e47d204f41c25922dff3dd
+Author: billoh28 <ohanlonbill1998@gmail.com>
+Date:   Thu Dec 19 22:58:40 2019 +0000
+
+    Changing list css again
+
+commit 63ae4e3abe36c0f110fff3ffb25d57fb247a457b
+Merge: a32945c 3ea135d
+Author: Killian Connolly <killian.connolly27@mail.dcu.ie>
+Date:   Thu Dec 19 22:54:32 2019 +0000
+
+    Merge branch 'master' of https://gitlab.computing.dcu.ie/kennea55/ca357-ui
+
+commit a32945cdeb7c66130229d3a85b4b1a44264763b0
+Author: Killian Connolly <killian.connolly27@mail.dcu.ie>
+Date:   Thu Dec 19 22:54:19 2019 +0000
+
+    login oage complete
+
+commit 3ea135d4d1299440a52252d6be7242cbdfb51d30
+Author: billoh28 <ohanlonbill1998@gmail.com>
+Date:   Thu Dec 19 22:51:09 2019 +0000
+
+    Changing nav bar for all modules
+
+commit e16876fdfce38b4287999bee6171bfa4b032956f
+Author: billoh28 <ohanlonbill1998@gmail.com>
+Date:   Thu Dec 19 22:40:53 2019 +0000
+
+    Changing list css again
+
+commit f3f0dc9a2457e6232244a4481814c7e3377f5289
+Author: Killian Connolly <killian.connolly27@mail.dcu.ie>
+Date:   Thu Dec 19 22:18:07 2019 +0000
+
+    homepage image update
+
+commit 880bfd06c95731d43ab12196017308bcf0409b1c
+Author: Killian Connolly <killian.connolly27@mail.dcu.ie>
+Date:   Thu Dec 19 22:14:10 2019 +0000
+
+    homepage image update
+
+commit 7e71cabbfbdd57c81040bf68c0e02abd54c6ccf9
+Merge: 5c77ba0 459f6ae
+Author: Killian Connolly <killian.connolly27@mail.dcu.ie>
+Date:   Thu Dec 19 22:08:24 2019 +0000
+
+    dcu logo on homepage
+    Merge branch 'master' of https://gitlab.computing.dcu.ie/kennea55/ca357-ui
+
+commit 5c77ba02f5e0b3438b2dc2e7628f6ea92b6d6538
+Author: Killian Connolly <killian.connolly27@mail.dcu.ie>
+Date:   Thu Dec 19 22:08:05 2019 +0000
+
+    homepage image
+
+commit 459f6ae0085f4da342ac7e4f59655517f379013b
+Author: billoh28 <ohanlonbill1998@gmail.com>
+Date:   Thu Dec 19 22:01:36 2019 +0000
+
+    Changing nav bar for all modules
+
+commit 914e6c346cdc34b76c18a7b27370f7505cbd1302
+Author: billoh28 <ohanlonbill1998@gmail.com>
+Date:   Thu Dec 19 21:44:23 2019 +0000
+
+    Changing list css again
+
+commit 59a79b7118f8ac1bf0aa25db844ae95952a74586
+Author: billoh28 <ohanlonbill1998@gmail.com>
+Date:   Thu Dec 19 21:38:42 2019 +0000
+
+    Changing list css again
+
+commit b65d006e79204e946f9cc15f872702375764b558
+Merge: 896e525 cbef0f1
+Author: billoh28 <ohanlonbill1998@gmail.com>
+Date:   Thu Dec 19 21:32:42 2019 +0000
+
+    Merge branch 'master' of https://gitlab.computing.dcu.ie/kennea55/ca357-ui
+
+commit 896e525cafae145c5aee3113ffad0f8d67c2c73f
+Author: billoh28 <ohanlonbill1998@gmail.com>
+Date:   Thu Dec 19 21:32:36 2019 +0000
+
+    Changing week files to implement the module list css
+
+commit cbef0f1f1407c881c1ea3d11c7944557788abe29
+Author: Killian Connolly <killian.connolly27@mail.dcu.ie>
+Date:   Thu Dec 19 21:32:11 2019 +0000
+
+    ccs update
+
+commit c2697a7e7befc6d6fda99cc67ed1b278afe80da2
+Author: Killian Connolly <killian.connolly27@mail.dcu.ie>
+Date:   Thu Dec 19 21:09:22 2019 +0000
+
+    DCU logo
+
+commit d19f701395f8ff108199619b0be432f57895d221
+Author: billoh28 <ohanlonbill1998@gmail.com>
+Date:   Thu Dec 19 20:56:05 2019 +0000
+
+    Updating index.html to add div for module list
+
+commit 4c11ab0c6041a703c502cc5cc0572953fc6a38e0
+Author: billoh28 <ohanlonbill1998@gmail.com>
+Date:   Thu Dec 19 20:53:32 2019 +0000
+
+    Adding CSS to list of modules
+
+commit 00e78955d7912c91a15cd9b5a20ad2d5223ab1a7
+Author: billoh28 <ohanlonbill1998@gmail.com>
+Date:   Thu Dec 19 20:40:11 2019 +0000
+
+    Adding CSS to list of modules
+
+commit 93138db2165531d9b1bb10fbb61feab232967860
+Author: Ethan Sharkey <shark.ethan@gmail.com>
+Date:   Thu Dec 19 18:46:29 2019 +0000
+
+    Fixed My mistakes
+
+commit 4291fba55502339b77ed52142b2481bdf22b3d0d
+Merge: cd80b6c 2ba7982
+Author: Ethan Sharkey <shark.ethan@gmail.com>
+Date:   Thu Dec 19 18:38:55 2019 +0000
+
+    Merge branch 'master' of https://gitlab.computing.dcu.ie/kennea55/ca357-ui
+
+commit 2ba79825fe2508493ad455147396f55795a8442d
+Author: Killian Connolly <killian.connolly27@mail.dcu.ie>
+Date:   Thu Dec 19 10:49:58 2019 +0000
+
+    margins and fonts
+
+commit 78590b9d331f626f8e435fe6ffcfae8190f5a6b9
+Author: Eoin <eoin.mckeever2@mail.dcu.ie>
+Date:   Thu Dec 19 04:09:56 2019 +0000
+
+    added past papers in nav across pages and edited home
+
+commit 19955f87fc01c404a8e417eb2684fed8977d941f
+Author: Eoin <eoin.mckeever2@mail.dcu.ie>
+Date:   Thu Dec 19 03:38:42 2019 +0000
+
+    main page changes
+
+commit a70f0dbfef263583ad8801b482b032519b853d10
+Author: Eoin <eoin.mckeever2@mail.dcu.ie>
+Date:   Thu Dec 19 02:17:42 2019 +0000
+
+    more Grade page changes
+
+commit c1f67d982886071590adbae27251d6cec90bda94
+Author: Eoin <eoin.mckeever2@mail.dcu.ie>
+Date:   Thu Dec 19 02:10:47 2019 +0000
+
+    Grades page changes
+
+commit 488c946c3113777300237f8bc48e0140e7b9768d
+Author: Ali <alison.kennedy55@mail.dcu.ie>
+Date:   Thu Dec 19 01:32:46 2019 +0000
+
+    Fixed broken links for week 5
+
+commit 4a7869f42120d97a0f910aa5197f46e9e62976d6
+Author: Ali <alison.kennedy55@mail.dcu.ie>
+Date:   Thu Dec 19 01:29:33 2019 +0000
+
+    Added file for pdf notes
+
+commit 34ea76810709635e7ba2559eda9dfe3abf1c4daa
+Author: Ali <alison.kennedy55@mail.dcu.ie>
+Date:   Thu Dec 19 01:27:34 2019 +0000
+
+    Added additional content and embedded videos to week pages
+
+commit 4eabddda2795a0312950f03686cc1d09b943966c
+Author: Ali <alison.kennedy55@mail.dcu.ie>
+Date:   Thu Dec 19 00:08:07 2019 +0000
+
+    fixed bug in example module pages
+
+commit d50c8adb9d1ccec1af5af7c06e88b8e3cb740efc
+Author: Ali <alison.kennedy55@mail.dcu.ie>
+Date:   Wed Dec 18 23:58:11 2019 +0000
+
+    included assignment specs
+
+commit cd80b6c7d747c214bef9f3d38f4ad88bea71e0f3
+Author: Ethan Sharkey <shark.ethan@gmail.com>
+Date:   Wed Dec 18 23:13:36 2019 +0000
+
+    fixed links to javascript page
+
+commit 93f1db07d8731104bf525150b9ee4c7950bdae8e
+Author: Ethan Sharkey <shark.ethan@gmail.com>
+Date:   Wed Dec 18 23:06:48 2019 +0000
+
+    Made changes to files
+
+commit a3fe0f2c411daff554d797f170562f7811844bb3
+Author: Ethan Sharkey <shark.ethan@gmail.com>
+Date:   Wed Dec 18 23:02:51 2019 +0000
+
+    Made a javascript function to make it easier to edit nav bar
+
+commit bc7c9175a9a072452f520e808b611077fc467654
+Author: Ali <alison.kennedy55@mail.dcu.ie>
+Date:   Wed Dec 18 22:40:03 2019 +0000
+
+    Deleted duplicate week pages and module folders. Added Notes to week pages.
+
+commit 76aa578bdb5a703cf409f4881a029995947cf464
+Author: Eoin <eoin.mckeever2@mail.dcu.ie>
+Date:   Wed Dec 18 14:15:28 2019 +0000
+
+    Grades Page
+
+commit 3ed9c0c02b9298f23f40af7dd27886bca3292c82
+Author: billoh28 <ohanlonbill1998@gmail.com>
+Date:   Wed Dec 18 13:59:01 2019 +0000
+
+    Added module template page
+
+commit 28ebf66fd58472e4b70ffc00917254a34a5f12aa
+Author: Eoin <eoin.mckeever2@mail.dcu.ie>
+Date:   Wed Dec 18 13:32:35 2019 +0000
+
+    More content changes
+
+commit 347a42bc86b3f2aa59ef47ec459359ac755d744f
+Author: Eoin <eoin.mckeever2@mail.dcu.ie>
+Date:   Wed Dec 18 12:15:44 2019 +0000
+
+    HTML changes
+
+commit 5892e72dc8055d21be3c59fd8ab67a9e54b840c7
+Author: Killian Connolly <killian.connolly27@mail.dcu.ie>
+Date:   Tue Dec 17 21:49:32 2019 +0000
+
+    module pages
+
+commit f46f5b5448fff2794e5a7098be87bdc24dbadd4e
+Author: Killian Connolly <killian.connolly27@mail.dcu.ie>
+Date:   Tue Dec 17 20:52:45 2019 +0000
+
+    module pages
+
+commit aa67441ba328dbf395f3f795f87f8bfdbeae169c
+Author: Killian Connolly <killian.connolly27@mail.dcu.ie>
+Date:   Tue Dec 17 20:44:46 2019 +0000
+
+    module pages
+
+commit 44ceabe0d87587adec81937ccac9428964669286
+Author: Killian Connolly <killian.connolly27@mail.dcu.ie>
+Date:   Tue Dec 17 20:00:25 2019 +0000
+
+    about page added
+
+commit 310025354acbbd84d021c0c34bd41ebfa6fb7d0b
+Author: Killian Connolly <killian.connolly27@mail.dcu.ie>
+Date:   Tue Dec 17 19:52:31 2019 +0000
+
+    logo to login page
+
+commit de59e6354fbabb262b1be4898bbb757d1d67924b
+Author: Ethan Sharkey <shark.ethan@gmail.com>
+Date:   Mon Dec 16 18:23:48 2019 +0000
+
+    Removed CA357 button because of new example pages
+
+commit defc23e5564f4fcfba305d89e71dfbb6673d4478
+Merge: d0104b0 898fd6e
+Author: billoh28 <ohanlonbill1998@gmail.com>
+Date:   Mon Dec 16 17:58:14 2019 +0000
+
+    Merge branch 'master' of https://gitlab.computing.dcu.ie/kennea55/ca357-ui
+
+commit d0104b07e29a9d2105fcf46e1569cd1e57b4c093
+Author: billoh28 <ohanlonbill1998@gmail.com>
+Date:   Mon Dec 16 17:58:09 2019 +0000
+
+    Forcing a local push
+
+commit 898fd6e81158738193716d53135bd71a48d17eda
+Author: Killian Connolly <killian.connolly27@mail.dcu.ie>
+Date:   Mon Dec 16 17:56:11 2019 +0000
+
+    css for logout
+
+commit 699db3da313b99625cf47c1c0d5fb49168435ba2
+Merge: 88a7b05 63aa72a
+Author: billoh28 <ohanlonbill1998@gmail.com>
+Date:   Mon Dec 16 17:54:39 2019 +0000
+
+    Merge branch 'master' of https://gitlab.computing.dcu.ie/kennea55/ca357-ui
+
+commit 88a7b05963199d0583f73710f4c5e0e0dd824e58
+Author: billoh28 <ohanlonbill1998@gmail.com>
+Date:   Mon Dec 16 17:54:15 2019 +0000
+
+    Changing css
+
+commit 63aa72a472f29dba9bd70c5a3ae25ce0d736e8fd
+Author: Killian Connolly <killian.connolly27@mail.dcu.ie>
+Date:   Mon Dec 16 17:39:10 2019 +0000
+
+    css for logout
+
+commit fdb787eebb3908d629868f4e23529b26dca72736
+Author: billoh28 <ohanlonbill1998@gmail.com>
+Date:   Mon Dec 16 17:32:37 2019 +0000
+
+    Adding list css
+
+commit 643bd0f0ca536280fec20dc0a75f15b6c5c4564a
+Author: Killian Connolly <killian.connolly27@mail.dcu.ie>
+Date:   Mon Dec 16 17:18:14 2019 +0000
+
+    css for login page
+
+commit ee7034fba708f55404fe284b864b91a24ee0b1ef
+Author: Killian Connolly <killian.connolly27@mail.dcu.ie>
+Date:   Mon Dec 16 17:15:58 2019 +0000
+
+    css for login page
+
+commit c60911e634d3e85c95768517570c5d38d20e47f6
+Author: Killian Connolly <killian.connolly27@mail.dcu.ie>
+Date:   Mon Dec 16 17:12:56 2019 +0000
+
+    Login
+
+commit 9f3d1676468393ebc2408968ffc9887c38f15700
+Author: billoh28 <ohanlonbill1998@gmail.com>
+Date:   Mon Dec 16 16:53:25 2019 +0000
+
+    Adding nav bar to each sample page
+
+commit 7ae1924b31f4bf828afe335aa657651730314aee
+Author: billoh28 <ohanlonbill1998@gmail.com>
+Date:   Mon Dec 16 16:45:19 2019 +0000
+
+    Adding timetable link
+
+commit f7a5a2e768e74ace84bbee06fc44f0ef5a7a59ba
+Author: billoh28 <ohanlonbill1998@gmail.com>
+Date:   Mon Dec 16 16:42:38 2019 +0000
+
+    Adding some sample pages
+
+commit 63fbd82f88f13509b94618e14236f0b61921893e
+Author: Ethan Sharkey <shark.ethan@gmail.com>
+Date:   Mon Dec 16 14:21:17 2019 +0000
+
+    Added nav bar and css with provisional colour scheme
+
+commit 7d5cf8003574c70b1faca69423e135ed31f7131c
+Author: Alison Kennedy <alison.kennedy55@mail.dcu.ie>
+Date:   Wed Nov 13 13:13:34 2019 +0000
+
+    Initial commit
